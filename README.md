@@ -1,7 +1,8 @@
-Hello World!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Beatriz Torres Archundia
+![Header](./github-header-image.png)
+
 ================================================================================================================================================
 
-I've been interested in coding and tech since I was a child. I began coding in middle school and continued on my passion in a career sense. I am currently a Computer Science student at Cal State Fullerton, where I am developing and refining my coding skills. I am open to exploring new and different software and will continue doing so in my career. As of right now, I've been more interested in AI and game development. I plan to continue my passion throughout the years and learn more about different software/languages.
+Hello World! My name is Beatriz Torres and I was born an raised in Sonoma California! I've been interested in coding and tech since I was a child. I began coding in middle school and continued on my passion in a career sense. I am currently a Computer Science student at Cal State Fullerton, where I am developing and refining my coding skills. I am open to exploring new and different software and will continue doing so in my career. As of right now, I've been more interested in AI and game development. I plan to continue my passion throughout the years and learn more about different software/languages.
 
 * 🌍  I'm based in the United States
 * ✉️  You can contact me at [btorre0@csu.fullerton.edu](mailto:btorre0@csu.fullerton.edu)
