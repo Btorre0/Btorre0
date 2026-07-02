@@ -46,6 +46,7 @@
         I’m interested in building software that blends useful engineering with a polished user experience,
         from full-stack web apps to AI experiments and game development.
       </p>
+      <p></p>
     </td>
     <td width="50%">
       <h3>˚₊‧ What I’m Into ‧₊˚</h3>
@@ -55,6 +56,7 @@
         <li>Game development and interactive systems</li>
         <li>Backend architecture and databases</li>
         <li>Clean, expressive UI design</li>
+        <li></li>
       </ul>
     </td>
   </tr>
