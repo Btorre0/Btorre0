@@ -56,8 +56,8 @@
         <li>Game development and interactive systems</li>
         <li>Backend architecture and databases</li>
         <li>Clean, expressive UI design</li>
-        <li></li>
       </ul>
+      <p></p>
     </td>
   </tr>
 </table>
